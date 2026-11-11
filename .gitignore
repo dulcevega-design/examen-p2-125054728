@@ -1,0 +1,11 @@
+*.csv
+mapreduce/output/
+.env
+__pycache__/
+.venv/
+*.csv
+*.csv
+*.tar.gz
+*.csv
+*.tar.gz
+*.csv
